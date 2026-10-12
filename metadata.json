@@ -1,0 +1,6 @@
+{
+  "name": "Annamayya District Healthcare GIS Map",
+  "description": "Interactive GIS Map of Annamayya District featuring all Government Hospitals, Private Hospitals, Clinics, and Diagnostic Labs across every Mandal, Taluka, and Panchayati town.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
